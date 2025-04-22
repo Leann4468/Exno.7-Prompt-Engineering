@@ -164,6 +164,7 @@ Implement voice assistant module (e.g., Whisper + ChatGPT)
 Daily goal tracking with gamification
 
 
-# Result: The Prompt is executed successfully
+## Result: 
+The Prompt is executed successfully
 
 
